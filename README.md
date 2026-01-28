@@ -28,9 +28,10 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
 
 **Programming & Analytics Languages**
 - Python
-- R
+- SQL
 - DAX
 - M (Power Query)
+- R
 
 **Tools**
 - Microsoft Excel
