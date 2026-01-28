@@ -2,7 +2,7 @@
 
 I am a **Data Analyst** with a background in **Computer Engineering** and professional experience within the **Portuguese National Republican Guard (GNR)**, working with real-world institutional and administrative data.
 
-I have strong experience in **data modeling, dashboard development, and business-oriented analytics**, transforming complex and heterogeneous datasets into **clear, actionable insights** using **Power BI, SQL, and Excel**.
+I have strong experience in **data modeling, dashboard development, and business-oriented analytics**, transforming complex and heterogeneous datasets into **clear, actionable insights** using **Power BI and Excel**.
 
 My work focuses on **data quality, consistency, and decision support**, delivering analytical solutions that support both **strategic and operational decision-making**, particularly in **Human Resources and operational reporting** contexts.
 
