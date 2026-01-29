@@ -20,20 +20,20 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
 
 ## 🛠️ Technical Skills
 
-**Data Analysis & Business Intelligence**
+**📊 Data Analysis & Business Intelligence**
 - Power BI
 - Data Modeling
 - Dashboard Development
 - Reporting Automation
 
-**Programming & Analytics Languages**
+**💻 Programming & Analytics Languages**
 - Python
 - SQL
 - DAX
 - M (Power Query)
 - R
 
-**Tools**
+**🧰 Tools**
 - Microsoft Excel
 - IBM SPSS
 - VSCode
@@ -42,28 +42,32 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
 
 ---
 
-## 🧠 Areas of Interest
+## 📜 Education & Certifications 
 
-- Data Analysis & Business Intelligence  
-- Power BI & Data Visualization
-- HR Analytics  
-- Data-driven decision support  
+### 🎓 Academic Education
 
----
+**Bachelor’s Degree in Computer Engineering**
 
-## 📜 Certifications & Education
+**Final Project**  
+ - Developed, in a team of three, a **serious games application for early childhood literacy support**, combining software engineering principles with educational objectives.  
+**Final Project Grade:** 18/20
 
-**Career Tracks**
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/bf99c50c-dffa-45b8-bb69-c0e2d591352a" />
+
+
+### 📚 Professional Certifications
+
+**🎯 Career Tracks**
 -	Data Analyst in Power BI (50h)
 -	Associate Data Analyst in SQL (39h)
 
-**Python**
+**🐍 Python**
 -	Introduction to Python
 -	Intermediate Python
 -	Joining Data with pandas
 -	Data Manipulation with pandas
 
-**SQL**
+**🗄️ SQL**
 -	Introduction to SQL
 -	Intermediate SQL
 -	Joining Data in SQL
@@ -73,7 +77,7 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
 -	Functions for Manipulating Data in PostgreSQL
 -	PostgreSQL: Summary Stats and Window Functions
 
-**Power BI**
+**📊 Power BI**
 -	Introduction to Power BI
 -	Introduction to DAX in Power BI
 -	Data Connections in Power BI
