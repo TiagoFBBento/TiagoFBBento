@@ -33,13 +33,6 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
 - M (Power Query)
 - R
 
-**🧰 Tools**
-- Microsoft Excel
-- IBM SPSS
-- VSCode
-- PyCharm
-- RStudio
-
 ---
 
 ## 📜 Education & Certifications 
@@ -52,7 +45,23 @@ My work focuses on **data quality, consistency, and decision support**, deliveri
  - Developed, in a team of three, a **serious games application for early childhood literacy support**, combining software engineering principles with educational objectives.  
 **Final Project Grade:** 18/20
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/bf99c50c-dffa-45b8-bb69-c0e2d591352a" />
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/bf99c50c-dffa-45b8-bb69-c0e2d591352a" 
+    alt="Power BI Data Model - Star Schema"
+    width="350"
+  /> 
+</div>   
+</br>
+
+This project resulted in a peer-reviewed scientific publication:
+
+**Serious educational game: development of an application for consolidating children's literacy**  
+*Journal of Computer Science*, February 2026
+
+The article presents the pedagogical foundations, system architecture, and evaluation results of the developed application in a real school context.
+
+🔗 [Read the full article](https://journals.uab.pt/index.php/rcc/article/view/422)
 
 
 ### 📚 Professional Certifications
